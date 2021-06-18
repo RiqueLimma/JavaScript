@@ -1,0 +1,1 @@
+console.log(7 / 0) //resultado "infinito"

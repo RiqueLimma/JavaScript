@@ -1,0 +1,17 @@
+TABELA DA VERDADE
+
+v e v -> V   exemplo do if
+v e f -> F
+f e ? -> F
+
+v ou ? -> V exemplo do || "ou"
+f e v -> V
+f e f -> F
+
+v xor v -> F
+v xor f -> V
+f xor v -> V
+f xor f -> F
+
+!v -> F
+!f -> V exemplo de negação em unário
